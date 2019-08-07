@@ -33,8 +33,6 @@
                 android:adjustViewBounds="true"
                 android:scaleType="fitCenter"
 
-                android:src="@drawable/maputo" />
-
             <TextView
                 android:id="@+id/tvTitle"
                 android:layout_width="wrap_content"
